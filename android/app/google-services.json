@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404494923847",
+    "project_id": "weather-website-e28f5",
+    "storage_bucket": "weather-website-e28f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404494923847:android:f739fcbde381ff04d31962",
+        "android_client_info": {
+          "package_name": "com.example.gweatherforecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYrC965Bm-YLZx1DFumx1jdjuG5fE4X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
